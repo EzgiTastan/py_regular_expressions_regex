@@ -30,3 +30,6 @@ print(pattern.search("HELLOWORLD"))
 The first example (Hello World) does not match the pattern and returns None.<br/>
 The second example (HELLO WORLD)does not match the pattern and returns None.<br/>
 The third example (HELLOWORLD) matches the pattern and returns a match object.<br/>
+
+![Screenshot_633](https://github.com/EzgiTastan/py_regular_expressions_regex/assets/139014781/5e2e4340-2ca9-43e4-960d-5d162c10dc26)
+
